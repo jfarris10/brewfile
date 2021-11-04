@@ -21,6 +21,8 @@ mas "OmniGraffle", id: 1142578753
 mas "Service Station", id: 1503136033
 mas "Evernote", id: 406056744
 mas "Soulver", id: 413965349
+mas "Brother iPrint&Scan", id: 1193539993
+
 
 
 cask "1Password"
@@ -42,6 +44,13 @@ cask "microsoft-office"
 cask "renamer"
 cask "screens"
 cask "slack"
+cask "elgato-control-center"
+cask "elgato-stream-deck"
+cask "focusrite-control"
+cask "ivpn"
+cask "logitech-g-hub"
+cask "vlc"
+cask "zoom"
 
 brew "ffmpeg"
 brew "mkvtoolnix"
