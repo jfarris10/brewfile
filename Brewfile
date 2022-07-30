@@ -64,6 +64,7 @@ brew "autoconf"
 brew "git"
 brew "go"
 brew "yarn"
+brew "iterm2"
 
 
 
