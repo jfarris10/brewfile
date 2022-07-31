@@ -10,7 +10,7 @@ brew "mas"
 mas "Fantastical", id: 435003921
 mas "Things", id: 904280696
 mas "Spark", id: 1176895641
-mas "Paprika Recipe Manager 3", id: 451907568
+mas "Paprika Recipe Manager 3", id: 1303222628
 mas "Better Snap Tool", id: 417375580
 mas "Parcel", id: 639968404
 mas "Final Cut Pro", id: 424389933
